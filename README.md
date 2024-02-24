@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NOTAYNH
+- 👀 I’m interested in Softwaring/Developing
+- 🌱 I’m currently learning C++/
+- 📫 You can reach me:
+-     Discord: ___async
+-     Roblox: DarkAsyncVoid
+-     Roblox Group: Miclosoft Studio
